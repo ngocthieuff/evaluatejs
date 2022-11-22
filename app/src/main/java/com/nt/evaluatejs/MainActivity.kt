@@ -12,7 +12,7 @@ import androidx.browser.customtabs.CustomTabsIntent
 
 class MainActivity : AppCompatActivity() {
 
-    val url = "https://www.digitalocean.com/";
+    val url = "http://10.0.2.2:3000/";
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
